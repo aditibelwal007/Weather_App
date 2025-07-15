@@ -15,54 +15,87 @@ A responsive weather forecast app built using **React.js**, powered by the **Ope
 
 ---
 
-## 🖼️ Demo
 
 <!-- Replace this with your live demo or screenshot -->
 ![Demo Screenshot] <img width="1790" height="835" alt="image" src="https://github.com/user-attachments/assets/6c48da37-b1ed-4fe1-b72d-0064d4833414" />
 
-## ⚙️ Setup & Installation
 
-### Step 1: Clone the Repository
+## 🌐 Live Demo
+
+👉 [Click here to view the live site](https://your-deployed-link.netlify.app)  
+
+---
+
+## ✨ Features
+
+- 🔍 Search weather by city name
+- 🌡️ Real-time weather data (temperature, humidity, etc.)
+- 🌤️ Dynamic icons based on weather condition
+- 🎨 Background theme changes based on weather
+- 🧠 Error handling for invalid city input
+- 📱 Mobile responsive design
+
+---
+
+## 🚀 Tech Stack
+
+- **React.js**
+- **OpenWeatherMap API**
+- **CSS3**
+- **Weather Icons**
+
+---
+
+## ⚙️ Setup Instructions
+
+### 1️⃣ Clone the repository
 
 ```bash
 git clone https://github.com/your-username/weather-app.git
 cd weather-app
-````
-Step 2: Install Dependencies
-
+```
+2️⃣ Install dependencies
 npm install
-Step 3: Add Your API Key
-Create a .env file in the root directory of the project:
+3️⃣ Set up your API key securely
+Create a .env file in the root folder and add your OpenWeatherMap API key:
 
----
 
-env
+REACT_APP_WEATHER_API_KEY=your_api_key_here
+🛡️ The .env file is included in .gitignore and will NOT be uploaded to GitHub, keeping your secrets safe.
 
-REACT_APP_WEATHER_API_KEY=your_openweathermap_api_key
-🛡️ Important: Your .env file is listed in .gitignore and will NOT be committed to GitHub. Never expose your API key in public repositories.
-
-Step 4: Run the App
+4️⃣ Start the app
 
 npm start
-Open http://localhost:3000 in your browser.
+
 ----
 
-
-🧩 Folder Structure
+📁 Folder Structure
 pgsql
-
+Copy
+Edit
 /src
- ├── Weathercard.js
+ ├── components
+ │    └── Weathercard.js
  ├── Temp.js
  ├── style.css
  ├── App.js
  └── index.js
-📜 License
-This project is licensed under the MIT License.
+📸 Preview
+(You can add your screenshot below)
+
+----
 
 🙋‍♀️ Author
 Aditi Belwal
-2nd Year B.Tech CSE (AI & ML)
+🎓 B.Tech CSE (AI & ML)
+🔗 Portfolio | LinkedIn
+
+----
+
+📜 License
+This project is licensed under the MIT License.
+
+-----
 
 ⭐ If you found this project helpful, give it a star and share it with others!
 ---
