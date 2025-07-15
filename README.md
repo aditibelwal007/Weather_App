@@ -85,11 +85,6 @@ Edit
 
 ----
 
-🙋‍♀️ Author
-Aditi Belwal
-🎓 B.Tech CSE (AI & ML)
-🔗 Portfolio | LinkedIn
-
 ----
 
 📜 License
