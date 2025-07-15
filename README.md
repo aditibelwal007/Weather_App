@@ -18,7 +18,7 @@ A responsive weather forecast app built using **React.js**, powered by the **Ope
 ## 🖼️ Demo
 
 <!-- Replace this with your live demo or screenshot -->
-![Demo Screenshot](https://your-screenshot-url.png)
+![Demo Screenshot] <img width="1790" height="835" alt="image" src="https://github.com/user-attachments/assets/6c48da37-b1ed-4fe1-b72d-0064d4833414" />
 
 ## ⚙️ Setup & Installation
 
