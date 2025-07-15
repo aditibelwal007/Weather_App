@@ -100,3 +100,21 @@ This project is licensed under the MIT License.
 - Ready for deployment on **Netlify**, **Vercel**, or **GitHub Pages**.
 
 Would you like me to generate a downloadable `.md` file or auto-commit it to your GitHub repo structure?
+
+---
+
+## 🙋‍♀️ About the Author
+
+**Aditi Belwal**  
+🎓 B.Tech in Computer Science (AI & ML)  
+💻 Passionate about building intelligent and user-friendly web apps.
+
+📫 Connect with me:  
+🔗 [Portfolio Website](
+🔗 [LinkedIn] 
+
+---
+
+### 💫 If you found this project useful or inspiring, feel free to ⭐ star the repository and share it!
+
+
